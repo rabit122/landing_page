@@ -55,6 +55,7 @@ margin: 30px
 .botton h2{
     color: white;
     font-size: 36px;
+    margin-top: 0px;
 }
 
 .title-img{
@@ -121,6 +122,7 @@ margin: 30px
 .sentance h5{
     font-size: 48px;
     font-style: italic;
+    margin: 100px 10px;
 }
 
 .sentance p{
