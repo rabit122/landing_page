@@ -86,7 +86,7 @@ margin: 30px
     font-size: 26px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    margin-top: 50px;
+    
 
 }
 
@@ -123,6 +123,7 @@ margin: 30px
 .sentance h5{
     font-size: 48px;
     font-style: italic;
+    margin-top: 50px;
 }
 
 .sentance p{
