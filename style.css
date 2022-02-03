@@ -1,0 +1,176 @@
+.part1,
+.part2,
+.part3{
+
+    flex-direction: column;
+    margin: -8px;
+} 
+
+
+.top,
+.botton,
+.middle,
+.container{
+    display: flex;
+}
+
+.part1{
+    background-color: #1f2937;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.top {
+    gap: 350px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.link a{
+    color: white;
+    height: 20px;
+    margin-left: auto;
+    font-size: 20px;  
+    
+}
+
+.top h4{
+    font-size: 26px;
+    color: rgb(221, 7, 7);
+    margin: 10px;
+}
+
+.botton{
+    justify-content: center;
+    gap: 150px;
+    padding: 30px;
+}
+
+.botton .title{
+margin: 30px
+
+}
+
+.botton h2{
+    color: white;
+    font-size: 36px;
+}
+
+.title-img{
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+
+
+.botton p{
+    color: white;
+    margin: 10px;
+    height: auto;
+    width: 500px;
+}
+
+.middle{
+    margin: 48px;
+    justify-content: center;
+    gap: 40px;
+    
+    
+}
+
+.part2 h4 {
+    text-align: center;
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.part2 p{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.item{
+    justify-content:center;
+    width: 200px;
+}
+.middle img {
+    height: 200px;
+    width: 200px;
+    border: 5px solid darkblue;
+    border-radius: 40px;
+    
+}
+
+.part3{
+    background-color: #e5e7eb;
+    height: 400px;
+}
+
+.sentance{
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.sentance h5{
+    font-size: 48px;
+    font-style: italic;
+}
+
+.sentance p{
+    margin-left: 50%;
+}
+
+
+.part5{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+}
+
+
+.part4{
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px;
+
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    border-radius: 5px;
+    gap: 150px;
+    padding: 45px 100px;
+    margin: 10px 100px;
+}
+
+div h5 {
+    font-size: 36px;
+    margin: 2px;
+}
+
+div p{
+    font-size: 20px;
+    margin:2px;
+}
+button{
+    background-color: black;
+    border-radius: 5px;
+    border: 3px white solid;
+    width:100px;
+    height: 40px;
+    color: white;
+}
+
+
