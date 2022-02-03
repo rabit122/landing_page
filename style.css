@@ -80,11 +80,13 @@ margin: 30px
 }
 
 .part2 h4 {
+    justify-content: center;
     text-align: center;
     color: black;
     font-size: 26px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    margin-top:20px;
 
 }
 
