@@ -81,11 +81,13 @@ margin: 30px
 }
 
 .part2 h4 {
+    justify-content: center;
     text-align: center;
     color: black;
     font-size: 26px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    
 
 }
 
@@ -122,7 +124,11 @@ margin: 30px
 .sentance h5{
     font-size: 48px;
     font-style: italic;
+<<<<<<< HEAD
     margin: 100px 10px;
+=======
+    margin-top: 50px;
+>>>>>>> cf4d2693dbcd474379092fbb6e782542b8d5dd89
 }
 
 .sentance p{
