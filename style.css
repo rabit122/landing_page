@@ -124,11 +124,9 @@ margin: 30px
 .sentance h5{
     font-size: 48px;
     font-style: italic;
-<<<<<<< HEAD
     margin: 100px 10px;
-=======
     margin-top: 50px;
->>>>>>> cf4d2693dbcd474379092fbb6e782542b8d5dd89
+    margin: 100px 0px 100px 0px;
 }
 
 .sentance p{
